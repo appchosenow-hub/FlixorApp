@@ -1,13 +1,13 @@
-        v1.0.2
+v1.0.2
         
-        - Introduced Discover section
-        - Updated UI for smoother experience
+- Introduced Discover section
+- Updated UI for smoother experience
 
-        v1.0.1
+  v1.0.1
         
-        - Introduced Discover section
-        - Updated UI for smoother experience
+- Introduced Discover section
+- Updated UI for smoother experience
                 
-        v1.0.0
+v1.0.0
         
-        - Initial release
+- Initial release
