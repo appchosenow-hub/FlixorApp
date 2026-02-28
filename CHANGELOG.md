@@ -1,6 +1,6 @@
 v1.0.4
 
-• Added more streaming servers
+• Add more streaming servers
 
 • Fix minor bugs
 
