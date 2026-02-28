@@ -1,13 +1,13 @@
 v1.0.2
 
-• Introduced Discover section
-• Updated UI for smoother experience
+• Added more streaming servers
+• Fixed minor bugs
+• Performance improvements
 
 
 v1.0.1
 
-• Introduced Discover section
-• Updated UI for smoother experience
+• Fixed minor bugs
 
 
 v1.0.0
