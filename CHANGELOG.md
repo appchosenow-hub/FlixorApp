@@ -10,6 +10,8 @@ v1.0.6
 
 • Fix unreleased content appearing in results
 
+• Fixed black background issue on older Android devices
+
 
 v1.0.4
 
