@@ -1,3 +1,10 @@
+v1.0.7
+
+• Improve search performance and filtering
+
+• Fix minor bugs
+
+
 v1.0.6
 
 • Improve menu design
