@@ -1,3 +1,8 @@
+v1.1.1
+
+• Fixed black background issue on older Android devices
+
+
 v1.1.0
 
 • Add Continue Watching feature
