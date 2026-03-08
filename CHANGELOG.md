@@ -12,6 +12,7 @@
 
 • Fix various bugs
 
+
 v1.0.7
 
 • Improve search performance and filtering
