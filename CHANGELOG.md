@@ -2,7 +2,7 @@ v1.1.0
 
 • Add Continue Watching feature
 
-• Resume movies and TV shows instantly from where you left off
+• Resume movies and TV Shows instantly from where you left off
 
 • Improve search performance and filtering
 
