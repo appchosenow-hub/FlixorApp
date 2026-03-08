@@ -1,3 +1,17 @@
+1.1.0
+
+• Add Continue Watching feature
+
+• Resume movies and TV shows instantly from where you left off
+
+• Improve search performance and filtering
+
+• Improve "Back to Top" button behavior on the home page
+
+• Improve performance and stability
+
+• Fix various bugs
+
 v1.0.7
 
 • Improve search performance and filtering
