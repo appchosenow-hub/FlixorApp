@@ -1,3 +1,18 @@
+v1.2.0
+
+• Add dark theme for a more immersive viewing experience
+
+• Major UI redesign and overall app improvements
+
+• Enhanced performance and smoother navigation
+
+• Improve search performance and filtering
+
+• Improve stability
+
+• Fix various bugs
+
+
 v1.1.4
 
 • Fixed black background issue on older Android devices
