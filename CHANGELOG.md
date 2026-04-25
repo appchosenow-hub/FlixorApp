@@ -2,9 +2,9 @@ v1.2.0
 
 • Add dark theme for a more immersive viewing experience
 
-• Major UI redesign and overall app improvements
+• Major UI redesign
 
-• Enhanced performance and smoother navigation
+• Improve performance and smoother navigation
 
 • Improve search performance and filtering
 
