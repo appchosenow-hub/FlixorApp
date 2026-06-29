@@ -1,3 +1,18 @@
+v2.0.0
+
+• Add Watch Together feature
+
+• Watch movies and TV shows with friends in sync
+
+• Chat with friends while watching together
+
+• Added Trending Now section
+
+• Improve performance and stability
+
+• Fix various bugs
+
+
 v1.2.0
 
 • Add dark theme for a more immersive viewing experience
